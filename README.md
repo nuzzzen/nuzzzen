@@ -1,2 +1,2 @@
-👨‍💻 Computer Engineer student
-🐧 GNU/Linux power user
+👨‍💻 - Computer Engineer student.\
+🐧 - GNU/Linux power user.
