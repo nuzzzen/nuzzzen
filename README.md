@@ -1,2 +1,1 @@
-👨‍💻 - Computer Engineering student.\
-🐧 - GNU/Linux power user.
+# ALL MY STUFF IS ON [GITLAB](https://gitlab.com/nuzzzen)
